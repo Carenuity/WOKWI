@@ -7,4 +7,11 @@
 6. C3-Mini Ultrasonic senosr: [link](https://wokwi.com/projects/383932440914521089)]
 7. Arduino Uno New Logo: [[link](https://wokwi.com/projects/385190303555727361).]
 8. Pico Wi-Fi Scan: [Link](https://wokwi.com/projects/360480722185134081)
-
+9. Arduino Uno Carenuity_text with display: [[link](https://wokwi.com/projects/386440052475928577).]
+10. Arduino Uno Infineon Logo with display: [[link](https://wokwi.com/projects/386441682895354881).]
+11. Arduino Uno Bosch Logo with display: [[link](https://wokwi.com/projects/386441402135962625).]
+12. Arduino Uno Qrcode with display: [[link](https://wokwi.com/projects/386442099372992513).]
+13. Arduino Uno Combine Logo with display: [[link](https://wokwi.com/projects/386442395150099457).]
+14. Arduino Uno Renesas Logo with display: [[link](https://wokwi.com/projects/386441133303064577).]
+15. Arduino Uno Total animation with display: [[link](https://wokwi.com/projects/387454853192388609).]
+16. C3-Mini Total animation with display: [[link](https://wokwi.com/projects/388252528161775617).]
