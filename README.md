@@ -16,3 +16,4 @@
 15. Arduino Uno Total animation with display: [[link](https://wokwi.com/projects/387454853192388609).]
 16. C3-Mini Total animation with display: [[link](https://wokwi.com/projects/388252528161775617).]
 17. C3-Mini Precision Navigator [[link](https://wokwi.com/projects/388918952859582465)]
+18. C3-Mini Temperature by DS18B20[[link](https://wokwi.com/projects/389678380628663297)]
