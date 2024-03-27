@@ -19,3 +19,4 @@
 18. C3-Mini Temperature by DS18B20[[link](https://wokwi.com/projects/389678380628663297)]
 19. C3-Mini ChiGlobe Logo with Display[[Link](https://wokwi.com/projects/390732121800758273)]
 20. C3-Mini Carenuity Logo with Dsiplay[[Link](https://wokwi.com/projects/390728591718082561)]
+21. C3-Mini DS18B20 with Carenity logo: [[Link](https://wokwi.com/projects/389720022687491073).]
