@@ -19,4 +19,5 @@
 18. C3-Mini Temperature by DS18B20[[link](https://wokwi.com/projects/389678380628663297)]
 19. C3-Mini ChiGlobe Logo with Display[[Link](https://wokwi.com/projects/390732121800758273)]
 20. C3-Mini Carenuity Logo with Dsiplay[[Link](https://wokwi.com/projects/390728591718082561)]
-21. C3-MINI IR_RADIOMETER [[Link](https://wokwi.com/projects/393820490809468929)]
+21. C3-Mini IR_RADIOMETER [[Link](https://wokwi.com/projects/393820490809468929)]
+22. C3-Mini Auto_Light [[Link](https://wokwi.com/projects/395523025458749441)]
