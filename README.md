@@ -22,3 +22,4 @@
 21. C3-Mini IR_RADIOMETER [[Link](https://wokwi.com/projects/393820490809468929)]
 22. C3-Mini Auto_Light [[Link](https://wokwi.com/projects/395523025458749441)]
 23. C3-Mini Real-Timer [[Link](https://wokwi.com/projects/395909053609546753)]
+24. C3-Mini AutomaticLight-Timer[[Link](https://wokwi.com/projects/396044016424422401)]
