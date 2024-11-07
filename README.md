@@ -27,4 +27,4 @@
 24. C3-Mini Real-Timer.[[Link](https://wokwi.com/projects/395909053609546753).]
 25. C3-Mini AutomaticLight-Timer.[[Link](https://wokwi.com/projects/396044016424422401).]
 26. C3-Mini Carenuity Logo with DS18B20.[[Link](https://wokwi.com/projects/389720022687491073).]
-
+27. Arduino Uno LED rings [[Link](https://wokwi.com/projects/410100003669823489).]
