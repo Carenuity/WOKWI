@@ -29,4 +29,5 @@
 28. C3-Mini Carenuity Logo with DS18B20.[[Link](https://wokwi.com/projects/389720022687491073).]
 29. Arduino Uno LED rings [[Link](https://wokwi.com/projects/410100003669823489).]
 30. C3-Mini THWS-Logo with OLED Display [[Link](https://wokwi.com/projects/414266527615099905).]
+31. ESP32 Temperature and Humidity Measurement with 7-Segment Display [[Link](https://wokwi.com/projects/414346579501274113).]
 
