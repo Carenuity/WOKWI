@@ -33,3 +33,4 @@
 32. Arduino Uno LCD THWS with random number [[Link](https://wokwi.com/projects/414634191354576897).]
 33. ESP32 Temperature and Humidity Measurement with 7-Segment Display [[Link](https://wokwi.com/projects/414346579501274113).]
 34. Arduino Uno Humidity and Temperature Monitoring Station [[Link](https://wokwi.com/projects/414548843141306369).]
+35. Alarm Clock [[Link](https://wokwi.com/projects/414879722872811521).]
