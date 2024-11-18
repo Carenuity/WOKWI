@@ -30,4 +30,5 @@
 29. Arduino Uno LED rings [[Link](https://wokwi.com/projects/410100003669823489).]
 30. C3-Mini THWS-Logo with OLED Display [[Link](https://wokwi.com/projects/414266527615099905).]
 31. ESP32 Temperature and Humidity Measurement with 7-Segment Display [[Link](https://wokwi.com/projects/414346579501274113).]
+32. Arduino Uno Humidity and Temperature Monitoring Station [[Link](https://wokwi.com/projects/414548843141306369).]
 
