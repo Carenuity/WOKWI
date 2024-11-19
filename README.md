@@ -34,3 +34,4 @@
 33. ESP32 Temperature and Humidity Measurement with 7-Segment Display [[Link](https://wokwi.com/projects/414346579501274113).]
 34. Arduino Uno Humidity and Temperature Monitoring Station [[Link](https://wokwi.com/projects/414548843141306369).]
 35. Simon Says ESP32-C3 [[Link](https://wokwi.com/projects/414878963606090753).]
+36. Arduino Uno Pulsierende RGB-LED [[Link](https://wokwi.com/projects/414906550842349569).]
