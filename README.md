@@ -38,4 +38,4 @@
 37. Clock https://wokwi.com/projects/321525495180034642
 38. Arduino Uno Parking garage barrier [[Link](https://wokwi.com/projects/415083424361074689).]
 39. Arduino Uno LED Würfel [[LINK](https://wokwi.com/projects/415195153863784449).]
-
+40. Arduino Uno Tic-Tac-Toe [[LINK](https://wokwi.com/projects/415254747927803905).]
