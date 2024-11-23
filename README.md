@@ -37,3 +37,7 @@
 36. Arduino Uno Pulsierende RGB-LED [[Link](https://wokwi.com/projects/414906550842349569).]
 37. Clock https://wokwi.com/projects/321525495180034642
 38. C-3 mini dont panic display[Link]https://wokwi.com/projects/415033768149590017]
+39. Arduino Uno Parking garage barrier [[Link](https://wokwi.com/projects/415083424361074689).]
+40. Arduino Uno LED Würfel [[LINK](https://wokwi.com/projects/415195153863784449).]
+41. Arduino Uno Tic-Tac-Toe [[LINK](https://wokwi.com/projects/415254747927803905).]
+
