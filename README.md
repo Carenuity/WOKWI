@@ -40,4 +40,5 @@
 39. Arduino Uno Parking garage barrier [[Link](https://wokwi.com/projects/415083424361074689).]
 40. Arduino Uno LED Würfel [[LINK](https://wokwi.com/projects/415195153863784449).]
 41. Arduino Uno Tic-Tac-Toe [[LINK](https://wokwi.com/projects/415254747927803905).]
+42. Arduino Uno KFZ-Blinker [[LINK](https://wokwi.com/projects/415724474838705153).] 
 
