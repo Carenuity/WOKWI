@@ -44,3 +44,4 @@
 43. C3_Mini_Infineon_Logo_Visualization [[LINK](https://wokwi.com/projects/416716862638303233).]
 44. SIMPLE_ESP32_BLINK_SKETCH_DEMO [[LINK](https://wokwi.com/projects/421443360312859649)]
 45. C3_Mini_BOSCH_Logo_Visualization [[LINK](https://wokwi.com/projects/423069242163463169).] 
+48. C3_Mini_ESPRESSIF_Logo_Visualization [[LINK](https://wokwi.com/projects/425510206334440449).]
