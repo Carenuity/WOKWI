@@ -1,4 +1,4 @@
-Welcome to the second THWS Home-Challenge!
+# Welcome to the second THWS Home-Challenge!
 
 Dear THWS-Students,
 A new semester means a fresh start! 
