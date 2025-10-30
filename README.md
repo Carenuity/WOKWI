@@ -1,3 +1,24 @@
+Welcome to the second THWS Home-Challenge!
+
+Dear THWS-Students,
+A new semester means a fresh start! 
+This is your chance to create something unique.
+
+Add your projects in the same format as shown below, but place them right here at the top of this section:
+
+1.
+2.
+3.
+...
+
+We’re excited to find your creativity and innovation inside the above section!
+
+Note: This second THWS Home Challenge started on November 3rd and ends on December 22nd, 2025.
+
+===============================
+
+Please ignore, improve, or use these below projects of previous students only as inspiration. 
+
 # WOKWI Projects
 1. C3-Mini Bitcoin Price Tracker: [[Link](https://wokwi.com/projects/371565043567756289 'C3-Mini Bitcoin Price Tracker')]
 2. C3-Mini Joke Machine: [[Link](https://wokwi.com/projects/342032431249883731 'C3-Mini Joke Machine')]
