@@ -7,7 +7,7 @@ This is your chance to create something unique.
 Add your projects in the same format as shown below, but place them right here at the top of this section:
 
 1. LED Christmas Tree https://wokwi.com/projects/446902449529136129
-2.
+2. Ground Control Station for a model rocket https://wokwi.com/projects/438989370626191361
 3.
 ...
 
