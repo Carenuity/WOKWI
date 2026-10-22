@@ -13,7 +13,7 @@ Add your C3-Mini projects in the same format as shown below, but place them righ
 
 We’re excited to find your creativity and innovation inside the above section!
 
-Note: This second THWS Home Challenge started on November 3rd and ends on December 22nd, 2025.
+Note: This third THWS Home Challenge starts on October 26th and ends on December 21st, 2026.
 
 ===============================
 
