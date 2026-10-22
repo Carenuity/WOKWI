@@ -1,14 +1,14 @@
-# Welcome to the second THWS Home-Challenge!
+# Welcome to the third THWS Home-Challenge!
 
 Dear THWS-Students,
 A new semester means a fresh start! 
 This is your chance to create something unique.
 
-Add your projects in the same format as shown below, but place them right here at the top of this section:
+Add your C3-Mini projects in the same format as shown below, but place them right here at the top of this section:
 
-1. LED Christmas Tree https://wokwi.com/projects/446902449529136129
-2. Ground Control Station for a model rocket https://wokwi.com/projects/438989370626191361
-3.
+1. C3-Mini LED Christmas Tree https://wokwi.com/projects/4469024...
+2. C3-Mini ... https://wokwi.com/projects/4389893...
+3.  enter here ...
 ...
 
 We’re excited to find your creativity and innovation inside the above section!
@@ -17,7 +17,7 @@ Note: This second THWS Home Challenge started on November 3rd and ends on Decemb
 
 ===============================
 
-Please ignore, improve, or use these below projects of previous students only as inspiration. 
+Please ignore, improve, or use these below projects of previous THWS students only as inspiration. 
 
 # WOKWI Projects
 1. C3-Mini Bitcoin Price Tracker: [[Link](https://wokwi.com/projects/371565043567756289 'C3-Mini Bitcoin Price Tracker')]
@@ -64,11 +64,13 @@ Please ignore, improve, or use these below projects of previous students only as
 42. Arduino Uno KFZ-Blinker [[LINK](https://wokwi.com/projects/415724474838705153).] 
 43. C3-Mini Infineon Logo_Visualization [[LINK](https://wokwi.com/projects/416716862638303233).]
 44. SIMPLE_ESP32_BLINK_SKETCH_DEMO [[LINK](https://wokwi.com/projects/421443360312859649)]
-45. C3_Mini_BOSCH_Logo_Visualization [[LINK](https://wokwi.com/projects/423069242163463169)]
-46. C3_Mini_Carenuity_Logo_Visualization [[LINK](https://wokwi.com/projects/425505816182111233)]
-47. C3_Mini_ARDUINO_Logo_Visualization [[LINK](https://wokwi.com/projects/425508100208502785)]
-48. C3_Mini_ESPRESSIF_Logo_Visualization [[LINK](https://wokwi.com/projects/425510206334440449)]
-49. C3_Mini_Adafruit_Logo_Visualization [[LINK](https://wokwi.com/projects/425511039846543361)]
+45. C3-Mini_BOSCH_Logo_Visualization [[LINK](https://wokwi.com/projects/423069242163463169)]
+46. C3-Mini_Carenuity_Logo_Visualization [[LINK](https://wokwi.com/projects/425505816182111233)]
+47. C3-Mini_ARDUINO_Logo_Visualization [[LINK](https://wokwi.com/projects/425508100208502785)]
+48. C3-Mini_ESPRESSIF_Logo_Visualization [[LINK](https://wokwi.com/projects/425510206334440449)]
+49. C3-Mini_Adafruit_Logo_Visualization [[LINK](https://wokwi.com/projects/425511039846543361)]
 50. Arduino Uno SmartPark Sensor System [[LINK](https://wokwi.com/projects/444718855271985153).]
 51. Arduino Uno Temperaturesensor with LED Display [[LINK](https://wokwi.com/projects/447514285946384385).]
-52 C3 Mini: data to serial logger [[LINK](https://wokwi.com/projects/449123732133872641).]
+52. C3-Mini: data to serial logger [[LINK](https://wokwi.com/projects/449123732133872641).]
+53. Arduino Uno LED Christmas Tree https://wokwi.com/projects/446902449529136129
+54. ESP32 Ground Control Station for a model rocket https://wokwi.com/projects/438989370626191361 
