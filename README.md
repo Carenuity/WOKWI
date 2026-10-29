@@ -73,4 +73,5 @@ Please ignore, improve, or use these below projects of previous THWS students on
 51. Arduino Uno Temperaturesensor with LED Display [[LINK](https://wokwi.com/projects/447514285946384385).]
 52. C3-Mini: data to serial logger [[LINK](https://wokwi.com/projects/449123732133872641).]
 53. Arduino Uno LED Christmas Tree https://wokwi.com/projects/446902449529136129
-54. ESP32 Ground Control Station for a model rocket https://wokwi.com/projects/438989370626191361 
+54. ESP32 Ground Control Station for a model rocket https://wokwi.com/projects/438989370626191361
+55. C3-Mini Bewegungsmelder [Link](https://wokwi.com/projects/379765052183862273)
